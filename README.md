@@ -23,13 +23,18 @@ By the end of this course, participants should have a clear understanding of the
 
 ## Breakout Room Exercise 2: Examining Files
 
-## MysteryFile01
-
-Take a look at this file yourself! Probe it, play it, investigate, and see if you can make any interesting conclusions about this file. When you're done, expand the text below to see what I think about this files
+For this exercise you're going to probe a bunch of mystery files and figure out what they are, and which might be a good candidate for a Preservation file. The files you'll need should have been downloaded with repository. They are in the `MysteryMedia` folder.
 
 <details>
-  <summary>Don't open until you've investigated the file!</summary>
+  <summary>Each file has a bullet point like this. Don't click it to expand until you've examined the file!</summary>
 
-  This file is actually a properly formed FFV1/MKV file. It would work great as a preservation file!
+  When you click on the bullet point it'll expand to show information about the file
+
+</details>
+
+<details>
+  <summary>Mystery File 01</summary>
+
+  This file is actually a blahblah
 
 </details>
