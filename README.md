@@ -41,9 +41,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     - 100MB / hour (small enough to send on Google Drive)
     - <details>
       <summary>Click to see best use case</summary>
-
       Access
-
     </details>
   * File 2
     - MOV / ProRes
