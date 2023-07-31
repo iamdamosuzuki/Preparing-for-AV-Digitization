@@ -51,6 +51,10 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     - Audio same as tape (audio has not been reorganized to easy viewing/listening)
     - 720x486
     - 30GB / hour (very large file, 30 hours would be one Terabyte)
+    - <details>
+      <summary>Click to see best use case</summary>
+      Production
+    </details>
   * File 3
     - MOV / V210
     - Proprietary This filetype is property of Apple
@@ -59,6 +63,10 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     - Audio same as tape
     - 720x486
     - 100GB / hr (huge file size, 10 hours is a Terabyte)
+    - <details>
+      <summary>Click to see best use case</summary>
+      Preservation
+    </details>
   * File 4
     - MKV / FFV1
     - Open Source (file specification is open and free to all)
@@ -68,6 +76,10 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     - 720x486
     - Internal Checksums (the file performs fixit checks on itself during playback and decoding)
     - 40GB / hr (large file size)
+    - <details>
+      <summary>Click to see best use case</summary>
+      Preservation
+    </details>
   * File 5
     - DV
     - Proprietary
@@ -76,6 +88,10 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     - Audio same as tape
     - 720x480
     - 13GB / hr
+    - <details>
+      <summary>Click to see best use case</summary>
+      Production
+    </details>
   * File 5
     - HEVC
     - Proprietary
@@ -83,7 +99,11 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     - Deinterlaced
     - Audio panned center
     - 1920x1080 (upscaled to HD)
-    - 400MB / hr (small enough to send over the interner)
+    - 400MB / hr (small enough to send over the internet)
+    - <details>
+      <summary>Click to see best use case</summary>
+      Access
+    </details>
 
 ## Exercise 2: Examining Files
 
