@@ -8,20 +8,86 @@ This workshop will offer participants a general overview of the process of digit
 ## Learning Objectives
 
 After taking this course, participants will be able to:
-* Identify various at risk audiovisual media formats
-* Differentiate between analog and digital audiovisual media
-* Understand the difference between the terms “Digitize”, “Migrate”, and “Preserve” and recognize how these concepts are used in audiovisual preservation
-* Recognize the strengths and limitations of various digital media file formats
-* Confidently make determinations about which preservation file formats are best for their collections
-* Utilize open source software to analyze file-based media
-* Confidently store and maintain a collection of digitized media files
+  * Identify various at risk audiovisual media formats
+  * Differentiate between analog and digital audiovisual media
+  * Understand the difference between the terms “Digitize”, “Migrate”, and “Preserve” and recognize how these concepts are used in audiovisual preservation
+  * Recognize the strengths and limitations of various digital media file formats
+  * Confidently make determinations about which preservation file formats are best for their collections
+  * Utilize open source software to analyze file-based media
+  * Confidently store and maintain a collection of digitized media files
 
 By the end of this course, participants should have a clear understanding of the fundamental concepts of digitizing, migrating, and preserving audiovisual media. Participants will also be prepared for the second course, which focuses on the hands-on processes of digitizing and migrating audiovisual media.
 
-## Breakout Room Exercise 1: File Use Cases
+## Pre-Workshop Preparation
 
+Before the workshop you'll need to install the following software:
 
-## Breakout Room Exercise 2: Examining Files
+  * [MediaInfo](https://mediaarea.net/en/MediaInfo/Download)
+  * [MediaConch](https://mediaarea.net/MediaConch)
+
+Also, download this repository so you have access to the sample files the `MysterMedia` folder
+
+## Exercise 1: File Use Cases
+
+For this exercise we'll discuss a few different files. The instructor will poll the zoom to see which use case people think the files being discussed are best suited for.
+
+  * File 1
+    - MP4 / H.264
+    - Proprietary. This filetype is property of Apple
+    - Highly compressed using lossy compression
+    - Deinterlaced (video is optimized for viewing on a computer screen)
+    - Audio Panned Center (audio is reorganized for a better listening experience)
+    - 720x480
+    - 100MB / hour (small enough to send on Google Drive)
+    - <details>
+      <summary>Click to see best use case</summary>
+
+      Access
+
+    </details>
+  * File 2
+    - MOV / ProRes
+    - Proprietary This filetype is property of Apple
+    - Mildly compressed using lossy compression
+    - Deinterlaced (video is optimized for viewing on a computer screen)
+    - Audio same as tape (audio has not been reorganized to easy viewing/listening)
+    - 720x486
+    - 30GB / hour (very large file, 30 hours would be one Terabyte)
+  * File 3
+    - MOV / V210
+    - Proprietary This filetype is property of Apple
+    - Uncompressed
+    - Interlaced (video is the same as on the tape)
+    - Audio same as tape
+    - 720x486
+    - 100GB / hr (huge file size, 10 hours is a Terabyte)
+  * File 4
+    - MKV / FFV1
+    - Open Source (file specification is open and free to all)
+    - Lossless compression
+    - Interlaced (video is the same as on the tape)
+    - Audio same as tape
+    - 720x486
+    - Internal Checksums (the file performs fixit checks on itself during playback and decoding)
+    - 40GB / hr (large file size)
+  * File 5
+    - DV
+    - Proprietary
+    - Mildly Lossy Cmprsn
+    - Interlaced
+    - Audio same as tape
+    - 720x480
+    - 13GB / hr
+  * File 5
+    - HEVC
+    - Proprietary
+    - Lossy compression
+    - Deinterlaced
+    - Audio panned center
+    - 1920x1080 (upscaled to HD)
+    - 400MB / hr (small enough to send over the interner)
+
+## Exercise 2: Examining Files
 
 For this exercise you're going to probe a bunch of mystery files and figure out what they are, and which might be a good candidate for a Preservation file. The files you'll need should have been downloaded with repository. They are in the `MysteryMedia` folder.
 
