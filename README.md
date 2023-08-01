@@ -22,6 +22,7 @@ By the end of this course, participants should have a clear understanding of the
 
 Before the workshop you'll need to install the following software:
 
+  * [VLC](https://www.videolan.org/vlc/)
   * [MediaInfo](https://mediaarea.net/en/MediaInfo/Download)
   * [MediaConch](https://mediaarea.net/MediaConch)
 
