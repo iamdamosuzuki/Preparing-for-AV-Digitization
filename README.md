@@ -105,9 +105,28 @@ For this exercise we'll discuss a few different files. The instructor will poll 
       Access
     </details>
 
-## Exercise 2: Examining Files
+## Exercise 2: Preservation Formats
+
+We've discussed how different types of media have different requirements for Preservation Formats. In this exercise we'll discuss different features that Preservation Formats can have and decide which media formats can benefit from these features.
+
+1. Maintain Organization of Original
+  * <details>
+    <summary>Click to expand</summary>
+    - Analog Tape
+    - Digital Tape
+    - Optical Disc
+  </details>
+2. Lossless Compression
+3. Complex Structure Capable of holding various Files
+4. Uncompressed
+5. Compatable With Common PLayback Systems
+6. Open Source
+
+## Exercise 3: Examining Files
 
 For this exercise you're going to probe a bunch of mystery files and figure out what they are, and which might be a good candidate for a Preservation file. The files you'll need should have been downloaded with repository. They are in the `MysteryMedia` folder.
+
+
 
 <details>
   <summary>Each file has a bullet point like this. Don't click it to expand until you've examined the file!</summary>
