@@ -112,33 +112,33 @@ We've discussed how different types of media have different requirements for Pre
 1. Maintain Organization of Original
   * <details>
     <summary>Click to expand</summary>
-    - Analog Tape, Digital Tape, Optical Disc
-  </details>
+    Analog Tape, Digital Tape, Optical Disc
+    </details>
 2. Lossless Compression
-* <details>
+  * <details>
   <summary>Click to expand</summary>
-  - Analog Tape
-</details>
+  Analog Tape
+  </details>
 3. Complex Structure Capable of holding various Files
-* <details>
+  * <details>
   <summary>Click to expand</summary>
-  - Optical Disc
+  Optical Disc
 </details>
 4. Uncompressed
-* <details>
+  * <details>
   <summary>Click to expand</summary>
-  - Analog Tape
-</details>
+  Analog Tape
+  </details>
 5. Compatable With Common Playback Systems
-* <details>
+  * <details>
   <summary>Click to expand</summary>
-  - None!
-</details>
+  None
+  </details>
 6. Open Source
-* <details>
+  * <details>
   <summary>Click to expand</summary>
-  - Analog Tape, Digital Tape, Optical Disc
-</details>
+  Analog Tape, Digital Tape, Optical Disc
+  </details>
 
 ## Exercise 3: Examining Files
 
