@@ -145,18 +145,20 @@ We've discussed how different types of media have different requirements for Pre
 
 For this exercise you're going to probe a bunch of mystery files and figure out what they are, and which might be a good candidate for a Preservation file. The files you'll need should have been downloaded with repository. They are in the `MysteryMedia` folder.
 
+### Step 1: Play the files in VLC
 
+To play files in VLC, open up VLC and drop the file you want to play into the window.
 
-<details>
-  <summary>Each file has a bullet point like this. Don't click it to expand until you've examined the file!</summary>
+Note anything interesting that happens when you play the files
 
-  When you click on the bullet point it'll expand to show information about the file
+### Step 2: Examine the files in MediaInfo
 
-</details>
+To play examine the files in MediaInfo, open up the program and drop the file you want to examine into the window.
 
-<details>
-  <summary>Mystery File 01</summary>
+You'll see the following information about the files:
 
-  This file is actually a blahblah
+  * General Information
+  * Video Stream Information
+  * Audio Stream Information
 
-</details>
+Do you see anything about the video information that matches up with what you saw when playing the files in VLC
