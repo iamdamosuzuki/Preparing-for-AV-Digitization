@@ -161,4 +161,14 @@ You'll see the following information about the files:
   * Video Stream Information
   * Audio Stream Information
 
-Do you see anything about the video information that matches up with what you saw when playing the files in VLC
+Do you see anything about the video information that matches up with what you saw when playing the files in VLC?
+
+### Step 3: Examine the files in MediaConch
+
+Now we'll use MediaConch to see if any of these files pass the policy named `Example MKV FFV1 Digitization Policy`.
+
+Open MediaConch, click the `Checker` tab and drag all the files in. You should see them each populate as a row.
+
+Next two where the program says `Apply a policy to all results`, select `Example MKV FFV1 Digitization Policy`.
+
+Any files that are proper MKV FFV1 Preservation Files will show up in green, any that are not proper Preservation Files will show up in red. You can click the Eye icon in the red section to view what about the file caused it to fail the policy check.
