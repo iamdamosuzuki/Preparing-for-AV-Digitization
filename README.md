@@ -174,6 +174,14 @@ You'll see the following information about the files:
   * Video Stream Information
   * Audio Stream Information
 
+<details>
+  <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
+  - `MysterFile01` plays a standard definition video file
+  - `MysterFile02` plays only audio
+  - `MysterFile03` plays a high definition video file with no audio
+  - `MysterFile04` plays a standard definition video file
+</details>
+
 Do you see anything about the video information that matches up with what you saw when playing the files in VLC?
 
 ### Step 3: Examine the files in MediaConch
