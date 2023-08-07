@@ -166,10 +166,10 @@ Note anything interesting that happens when you play the files
 
 <details>
   <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
-  `MysterFile01` plays a standard definition video file<br />
-  `MysterFile02` plays only audio<br />
-  `MysterFile03` plays a high definition video file with no audio<br />
-  `MysterFile04` plays a standard definition video file<br />
+  - MysteryFile01 plays a standard definition video file<br />
+  - MysteryFile02 plays only audio<br />
+  - MysteryFile03 plays a high definition video file with no audio<br />
+  - MysteryFile04 plays a standard definition video file<br />
 </details>
 
 ### Step 2: Examine the files in MediaInfo
@@ -184,6 +184,14 @@ You'll see the following information about the files:
 
 Do you see anything about the video information that matches up with what you saw when playing the files in VLC?
 
+<details>
+  <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
+  - MysteryFile01 Has a DV Video Stream and PCM Audio Stream<br />
+  - MysteryFile02 Has only one PCM audio stream, no video streams<br />
+  - MysteryFile03 plays a high definition video file with no audio<br />
+  - MysteryFile04 Has only one AVC Video stream, no audio streams<br />
+</details>
+
 ### Step 3: Examine the files in MediaConch
 
 Now we'll use MediaConch to see if any of these files pass the policy named `Example MKV FFV1 Digitization Policy`.
@@ -193,3 +201,11 @@ Open MediaConch, click the `Checker` tab and drag all the files in. You should s
 Next two where the program says `Apply a policy to all results`, select `Example MKV FFV1 Digitization Policy`.
 
 Any files that are proper MKV FFV1 Preservation Files will show up in green, any that are not proper Preservation Files will show up in red. You can click the Eye icon in the red section to view what about the file caused it to fail the policy check.
+
+<details>
+  <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
+  - MysteryFile01 fails the policy<br />
+  - MysteryFile02 fails the policy<br />
+  - MysteryFile03 passes the policy. It's an ideal Preservation File for analog video tape!<br />
+  - MysteryFile04 fails the policy<br />
+</details>
