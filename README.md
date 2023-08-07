@@ -34,7 +34,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
 
   * File 1
     - MP4 Container
-    - H.264 Codec
+    - H.264 Encoding
     - Proprietary. This filetype is property of Apple
     - Highly compressed using lossy compression
     - Deinterlaced (video is optimized for viewing on a computer screen)
@@ -47,7 +47,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     </details>
   * File 2
     - MOV Container
-    - ProRes Codec
+    - ProRes Encoding
     - Proprietary This filetype is property of Apple
     - Mildly compressed using lossy compression
     - Deinterlaced (video is optimized for viewing on a computer screen)
@@ -60,7 +60,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     </details>
   * File 3
     - MOV Container
-    - V210 Codec
+    - V210 Encoding
     - Proprietary This filetype is property of Apple
     - Uncompressed
     - Interlaced (video is the same as on the tape)
@@ -73,7 +73,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     </details>
   * File 4
     - MKV Container
-    - FFV1 Codec
+    - FFV1 Encoding
     - Open Source (file specification is open and free to all)
     - Lossless compression
     - Interlaced (video is the same as on the tape)
@@ -87,7 +87,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     </details>
   * File 5
     - DV Container
-    - DV Codec
+    - DV Encoding
     - Proprietary
     - Mildly Lossy Compression
     - Interlaced
@@ -100,7 +100,7 @@ For this exercise we'll discuss a few different files. The instructor will poll 
     </details>
   * File 5
     - MP4 Container
-    - HEVC Codec
+    - HEVC Encoding
     - Proprietary
     - Lossy Compression
     - Deinterlaced
