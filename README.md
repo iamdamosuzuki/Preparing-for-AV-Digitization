@@ -166,10 +166,10 @@ Note anything interesting that happens when you play the files
 
 <details>
   <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
-  - `MysterFile01` plays a standard definition video file
-  - `MysterFile02` plays only audio
-  - `MysterFile03` plays a high definition video file with no audio
-  - `MysterFile04` plays a standard definition video file
+  `MysterFile01` plays a standard definition video file<br />
+  `MysterFile02` plays only audio<br />
+  `MysterFile03` plays a high definition video file with no audio<br />
+  `MysterFile04` plays a standard definition video file<br />
 </details>
 
 ### Step 2: Examine the files in MediaInfo
