@@ -185,7 +185,7 @@ You'll see the following information about the files:
 Do you see anything about the video information that matches up with what you saw when playing the files in VLC?
 
 <details>
-  <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
+  <summary>When you're examining the files in MediaInfo, click here to see some details you may have noticed</summary>
   - MysteryFile01 Has a DV Video Stream and PCM Audio Stream<br />
   - MysteryFile02 Has only one PCM audio stream, no video streams<br />
   - MysteryFile03 plays a high definition video file with no audio<br />
@@ -203,7 +203,7 @@ Next two where the program says `Apply a policy to all results`, select `Example
 Any files that are proper MKV FFV1 Preservation Files will show up in green, any that are not proper Preservation Files will show up in red. You can click the Eye icon in the red section to view what about the file caused it to fail the policy check.
 
 <details>
-  <summary>When you're finished playing the files, click here to see some details you may have noticed</summary>
+  <summary>When you're checking the files in MediaConch, click here to see some details you may have noticed</summary>
   - MysteryFile01 fails the policy<br />
   - MysteryFile02 fails the policy<br />
   - MysteryFile03 passes the policy. It's an ideal Preservation File for analog video tape!<br />
