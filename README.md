@@ -151,6 +151,13 @@ We've discussed how different types of media have different requirements for Pre
 
 For this exercise you're going to probe a bunch of mystery files and figure out what they are, and which might be a good candidate for a Preservation file. The files you'll need should have been downloaded with repository. They are in the `MysteryMedia` folder.
 
+You can also right click the following links and press "Save Link As..." to save the files to your hard drive.
+
+- `[MysterFile01.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile01.mkv)`
+- `[MysterFile02.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile02.mkv)`
+- `[MysterFile03.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile03.mkv)`
+- `[MysterFile04.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile04.mkv)`
+
 ### Step 1: Play the files in VLC
 
 To play files in VLC, open up VLC and drop the file you want to play into the window.
