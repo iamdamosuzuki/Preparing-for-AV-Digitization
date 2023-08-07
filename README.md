@@ -156,7 +156,7 @@ You can also right click the following links and press "Save Link As..." to save
 - [MysterFile01.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile01.mkv)
 - [MysterFile02.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile02.mkv)
 - [MysterFile03.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile03.mkv)
--`[MysterFile04.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile04.mkv)
+-[MysterFile04.mkv](https://github.com/iamdamosuzuki/Preparing-for-AV-Digitization/blob/main/MysteryMedia/MysteryFile04.mkv)
 
 ### Step 1: Play the files in VLC
 
