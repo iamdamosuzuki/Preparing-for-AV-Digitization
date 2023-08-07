@@ -33,7 +33,8 @@ Also, download this repository so you have access to the sample files the `Myste
 For this exercise we'll discuss a few different files. The instructor will poll the zoom to see which use case people think the files being discussed are best suited for.
 
   * File 1
-    - MP4 / H.264
+    - MP4 Container
+    - H.264 Codec
     - Proprietary. This filetype is property of Apple
     - Highly compressed using lossy compression
     - Deinterlaced (video is optimized for viewing on a computer screen)
@@ -45,7 +46,8 @@ For this exercise we'll discuss a few different files. The instructor will poll 
       Access
     </details>
   * File 2
-    - MOV / ProRes
+    - MOV Container
+    - ProRes Codec
     - Proprietary This filetype is property of Apple
     - Mildly compressed using lossy compression
     - Deinterlaced (video is optimized for viewing on a computer screen)
@@ -57,7 +59,8 @@ For this exercise we'll discuss a few different files. The instructor will poll 
       Production
     </details>
   * File 3
-    - MOV / V210
+    - MOV Container
+    - V210 Codec
     - Proprietary This filetype is property of Apple
     - Uncompressed
     - Interlaced (video is the same as on the tape)
@@ -69,7 +72,8 @@ For this exercise we'll discuss a few different files. The instructor will poll 
       Preservation
     </details>
   * File 4
-    - MKV / FFV1
+    - MKV Container
+    - FFV1 Codec
     - Open Source (file specification is open and free to all)
     - Lossless compression
     - Interlaced (video is the same as on the tape)
@@ -82,9 +86,10 @@ For this exercise we'll discuss a few different files. The instructor will poll 
       Preservation
     </details>
   * File 5
-    - DV
+    - DV Container
+    - DV Codec
     - Proprietary
-    - Mildly Lossy Cmprsn
+    - Mildly Lossy Compression
     - Interlaced
     - Audio same as tape
     - 720x480
@@ -94,9 +99,10 @@ For this exercise we'll discuss a few different files. The instructor will poll 
       Production
     </details>
   * File 5
-    - HEVC
+    - MP4 Container
+    - HEVC Codec
     - Proprietary
-    - Lossy compression
+    - Lossy Compression
     - Deinterlaced
     - Audio panned center
     - 1920x1080 (upscaled to HD)
